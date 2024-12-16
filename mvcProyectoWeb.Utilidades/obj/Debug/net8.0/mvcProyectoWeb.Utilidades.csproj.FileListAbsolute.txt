@@ -1,0 +1,12 @@
+C:\Users\Usuario\Desktop\PWEB2\DesarrolloWebII-main\mvcProyectoWeb - 01 - Diseño y acceso a Datos\mvcProyectoWeb.Utilidades\bin\Debug\net8.0\mvcProyectoWeb.Utilidades.deps.json
+C:\Users\Usuario\Desktop\PWEB2\DesarrolloWebII-main\mvcProyectoWeb - 01 - Diseño y acceso a Datos\mvcProyectoWeb.Utilidades\bin\Debug\net8.0\mvcProyectoWeb.Utilidades.dll
+C:\Users\Usuario\Desktop\PWEB2\DesarrolloWebII-main\mvcProyectoWeb - 01 - Diseño y acceso a Datos\mvcProyectoWeb.Utilidades\bin\Debug\net8.0\mvcProyectoWeb.Utilidades.pdb
+C:\Users\Usuario\Desktop\PWEB2\DesarrolloWebII-main\mvcProyectoWeb - 01 - Diseño y acceso a Datos\mvcProyectoWeb.Utilidades\obj\Debug\net8.0\mvcProyectoWeb.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\PWEB2\DesarrolloWebII-main\mvcProyectoWeb - 01 - Diseño y acceso a Datos\mvcProyectoWeb.Utilidades\obj\Debug\net8.0\mvcProyectoWeb.Utilidades.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\PWEB2\DesarrolloWebII-main\mvcProyectoWeb - 01 - Diseño y acceso a Datos\mvcProyectoWeb.Utilidades\obj\Debug\net8.0\mvcProyectoWeb.Utilidades.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\PWEB2\DesarrolloWebII-main\mvcProyectoWeb - 01 - Diseño y acceso a Datos\mvcProyectoWeb.Utilidades\obj\Debug\net8.0\mvcProyectoWeb.Utilidades.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\PWEB2\DesarrolloWebII-main\mvcProyectoWeb - 01 - Diseño y acceso a Datos\mvcProyectoWeb.Utilidades\obj\Debug\net8.0\mvcProyectoWeb.Utilidades.sourcelink.json
+C:\Users\Usuario\Desktop\PWEB2\DesarrolloWebII-main\mvcProyectoWeb - 01 - Diseño y acceso a Datos\mvcProyectoWeb.Utilidades\obj\Debug\net8.0\mvcProyectoWeb.Utilidades.dll
+C:\Users\Usuario\Desktop\PWEB2\DesarrolloWebII-main\mvcProyectoWeb - 01 - Diseño y acceso a Datos\mvcProyectoWeb.Utilidades\obj\Debug\net8.0\refint\mvcProyectoWeb.Utilidades.dll
+C:\Users\Usuario\Desktop\PWEB2\DesarrolloWebII-main\mvcProyectoWeb - 01 - Diseño y acceso a Datos\mvcProyectoWeb.Utilidades\obj\Debug\net8.0\mvcProyectoWeb.Utilidades.pdb
+C:\Users\Usuario\Desktop\PWEB2\DesarrolloWebII-main\mvcProyectoWeb - 01 - Diseño y acceso a Datos\mvcProyectoWeb.Utilidades\obj\Debug\net8.0\ref\mvcProyectoWeb.Utilidades.dll
